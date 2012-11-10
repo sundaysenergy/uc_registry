@@ -1,0 +1,9 @@
+; $Id: uc_registry.info,v 1.1 2009/03/27 16:08:33 rszrama Exp $
+name = "Gift Registry"
+description = "Allows users to create public gift registries."
+dependencies[] = uc_store
+dependencies[] = uc_order
+dependencies[] = uc_product
+package = "Ubercart - extra"
+core = 6.x
+php = 5.0
